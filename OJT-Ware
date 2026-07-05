@@ -203,7 +203,7 @@ G2L["17"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["17"]["RichText"] = true;
 G2L["17"]["Size"] = UDim2.new(0.27717, 0, 0.08772, 0);
 G2L["17"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["17"]["Text"] = [[version 1.1.4]];
+G2L["17"]["Text"] = [[version 1.2.1]];
 G2L["17"]["Name"] = [[version]];
 G2L["17"]["Position"] = UDim2.new(0.72137, 0, 0.96471, 0);
 
