@@ -24,3 +24,7 @@ version 1.2 7/3/2026
     removed opening and closing animation, it sucked anyways and it broke due to automatic scaling (now its 0% AI again)
   == fixes:
     scales to device executed on, very ugly on phones tho
+
+bugfix 1.2.1
+  == screenshots are up to date, but the version text isnt, ignore it lol
+    fixed it as of now
