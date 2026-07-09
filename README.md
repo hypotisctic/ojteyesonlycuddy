@@ -1,15 +1,15 @@
 <div align="center">
-<h1>OJT-Ware</h1>
-<h3>thx for the inspiration saltandchicken and vaehz</h3>
+<h1>OJT-Ware, the best universal script for OJT's interns</h1>
 </div>
 
+### thx for the idea/help [vaehz](https://www.youtube.com/@vaehz) and inspiration [saltandchicken](https://www.roblox.com/users/858655930/profile), the one and only OJT
+
 > [!WARNING]
-> its super crude, atleast stuff rotates
+> its super crude, atleast stuff rotates :shipit:
 
-
-this is my first "gui" i cant rlly make my own scripts except for stuff in like brainrot games
-
-check out the screenshots before executing
+> [!NOTE]
+> this is my first "gui" i cant rlly make my own scripts except for stuff in like brainrot games,
+> check out the screenshots before executing
 
 ## script in releases
 
