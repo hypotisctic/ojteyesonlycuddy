@@ -9,4 +9,4 @@ this is my first "gui" i cant rlly make my own scripts except for stuff in like 
 check out the screenshots before executing
 
 changelog:
-[changelog](./changelogs.txt)
+[changelog](./changelogs.md)
