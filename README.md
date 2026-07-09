@@ -9,6 +9,8 @@ check out the screenshots before executing
 
 ### [changelog](./changelogs.md)
 
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/fd83b220-4690-4381-95b9-3fd0078d489a" /> pc screenshot
+<img width="585" height="329" alt="image" src="https://github.com/user-attachments/assets/fd83b220-4690-4381-95b9-3fd0078d489a" />
+pc screenshot
 
-<img width="1170" height="540" alt="image" src="https://github.com/user-attachments/assets/7c000995-99d3-4fc0-9bc8-94a85fdbe032" /> mobile (samsung s24) screenshot
+<img width="585" height="270" alt="image" src="https://github.com/user-attachments/assets/7c000995-99d3-4fc0-9bc8-94a85fdbe032" /> 
+mobile (samsung s24) screenshot
