@@ -3,7 +3,7 @@ alpha 1.0.0
 
 alpha 1.0.3
 == still 0% AI
-added Nameless Admin
+== added Nameless Admin
     added Cobalt
     added skid search (scriptblox API)
     added dex
