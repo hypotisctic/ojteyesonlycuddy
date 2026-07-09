@@ -1,5 +1,5 @@
 alpha 1.0.0
-== original, very bare, 0% AI
+original, very bare, 0% AI
 
 alpha 1.0.3
 == still 0% AI
