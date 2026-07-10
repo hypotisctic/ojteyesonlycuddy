@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hypotisctic/ojteyesonlycuddy/refs/heads/main/OJT-Ware"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hypotisctic/ojteyesonlycuddy/refs/heads/main/menusource.lua"))()
