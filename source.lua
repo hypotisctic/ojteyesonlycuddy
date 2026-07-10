@@ -202,7 +202,7 @@ G2L["17"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["17"]["RichText"] = true;
 G2L["17"]["Size"] = UDim2.new(0.27717, 0, 0.08772, 0);
 G2L["17"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["17"]["Text"] = [[version 1.2.5]];
+G2L["17"]["Text"] = [[version 1.4]];
 G2L["17"]["Name"] = [[version]];
 G2L["17"]["Position"] = UDim2.new(0.72137, 0, 0.96471, 0);
 
@@ -550,7 +550,7 @@ G2L["3e"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["3e"]["BackgroundTransparency"] = 1;
 G2L["3e"]["Size"] = UDim2.new(1.0099, 0, 0.99012, 0);
 G2L["3e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["3e"]["Text"] = [[edit toggle on line 820, edit name on line 541]];
+G2L["3e"]["Text"] = [[edit toggle in the source code]];
 
 
 -- StarterGui.OJTWare.mainframe.ojtremoteabuse.toggle1.TextLabel.UITextSizeConstraint
@@ -625,7 +625,7 @@ G2L["48"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["48"]["BackgroundTransparency"] = 1;
 G2L["48"]["Size"] = UDim2.new(1.0099, 0, 0.99012, 0);
 G2L["48"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["48"]["Text"] = [[edit toggle on line 820, edit name on line 541]];
+G2L["48"]["Text"] = [[edit toggle in the source code]];
 
 
 -- StarterGui.OJTWare.mainframe.ojtremoteabuse.toggle2.TextLabel.UITextSizeConstraint
@@ -700,7 +700,7 @@ G2L["52"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["52"]["BackgroundTransparency"] = 1;
 G2L["52"]["Size"] = UDim2.new(1.0099, 0, 0.99012, 0);
 G2L["52"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["52"]["Text"] = [[edit toggle on line 820, edit name on line 541]];
+G2L["52"]["Text"] = [[edit toggle in the source code]];
 
 
 -- StarterGui.OJTWare.mainframe.ojtremoteabuse.toggle3.TextLabel.UITextSizeConstraint
@@ -731,7 +731,7 @@ G2L["56"]["BackgroundColor3"] = Color3.fromRGB(246, 208, 255);
 G2L["56"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["56"]["Size"] = UDim2.new(0.75, 0, 0.3, 0);
 G2L["56"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["56"]["Text"] = [[edit on line]];
+G2L["56"]["Text"] = [[edit in source code]];
 G2L["56"]["Name"] = [[button1]];
 G2L["56"]["Position"] = UDim2.new(0.15, 0, 0.68, 0);
 
@@ -764,7 +764,7 @@ G2L["5a"]["BackgroundColor3"] = Color3.fromRGB(246, 208, 255);
 G2L["5a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["5a"]["Size"] = UDim2.new(0.75, 0, 0.3, 0);
 G2L["5a"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["5a"]["Text"] = [[edit on line]];
+G2L["5a"]["Text"] = [[edit in source code]];
 G2L["5a"]["Name"] = [[button2]];
 G2L["5a"]["Position"] = UDim2.new(0.15, 0, 0.85, 0);
 
