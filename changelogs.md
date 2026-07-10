@@ -1,3 +1,15 @@
+# version 1.4 7/10/2026
+
+### • ojt remoteabuse is now pre-release 1.1
+
+### • added a before-hand execution, like a menu
+
+• ojt remoteabuse now has 2 more editable toggle buttons and 2 new normal buttons, edit these in the [source code](https://github.com/hypotisctic/ojteyesonlycuddy/blob/main/source.lua)
+
+• on a side note, cleaned up execution and my github page, i thank [vaehz](https://www.youtube.com/@vaehz) for that since i tried for him to use my script on PASTEBIN... i learned hard that night
+
+
+
 # version 1.2.5 7/9/2026
 
 ### • VERY WIP feature for toggling remotes and stuff
