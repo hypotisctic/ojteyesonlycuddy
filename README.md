@@ -15,7 +15,8 @@
 
 ### [changelog](./changelogs.md)
 
-<img width="585" height="329" alt="image" src="https://github.com/user-attachments/assets/fd83b220-4690-4381-95b9-3fd0078d489a" />
+<img width="585" height="306" alt="Screenshot 2026-07-13 132504" src="https://github.com/user-attachments/assets/a3c7e31e-ad30-421e-b515-5e60098781d3" />
+<img width="585" height="304" alt="Screenshot 2026-07-13 132528" src="https://github.com/user-attachments/assets/0e1be9f9-d399-452c-9693-edccfd311e17" />
 pc screenshot
 
 <img width="585" height="270" alt="image" src="https://github.com/user-attachments/assets/7c000995-99d3-4fc0-9bc8-94a85fdbe032" /> 
