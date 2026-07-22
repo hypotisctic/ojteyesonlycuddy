@@ -10,6 +10,7 @@
 > [!NOTE]
 > this is my first "gui" i cant rlly make my own scripts except for stuff in like brainrot games,
 > check out the screenshots before executing
+> you can test the trial version on my [test game](https://www.roblox.com/games/104278617220585/ojt-world) without executing (16+)
 
 ## script in releases
 
