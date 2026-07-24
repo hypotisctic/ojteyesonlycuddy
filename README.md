@@ -9,6 +9,8 @@
 
 > [!NOTE]
 > this is my first "gui" i cant rlly make my own scripts except for stuff in like brainrot games
+>
+> the toggles and buttons on ojt remote abuse are very easy to customize, [click here for the guide](https://github.com/hypotisctic/ojteyesonlycuddy/blob/main/ojtremoteabuseGUIDE.md)
 > 
 > check out the screenshots before executing
 > 
