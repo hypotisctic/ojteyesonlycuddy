@@ -23,7 +23,7 @@ Tab1:Label("Also another SimpleLib GUI, so don't minimize!")
 Tab1:Label("Features Honda Civic and Toyota Hilux")
 
 Tab1:Button("Execute", function()
-    print("upload to github then post link here")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/hypotisctic/ojteyesonlycuddy/refs/heads/main/ignoregui.lua"))()
 end)
 
 local Tab1 = Window:AddSection("Gamepasses")
@@ -52,7 +52,7 @@ Tab1:Button("Execute", function()
     Tab1:Label("MAKE SURE TO HAVE THE TEMPLATE FROM SAMET")
 
     Tab1:Button("Execute", function()
-        print("upload to github then post link here")
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/hypotisctic/ojteyesonlycuddy/refs/heads/main/ignore.lua'))()
     end)
 
     local Tab1 = Window:AddSection("Compliance Drone/Mech")
